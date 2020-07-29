@@ -2,9 +2,9 @@
  该地址用来存放自己在学习过程中做过的项目，欢迎大家给我提出批评和建议~
  
  若网页无法加载ipynb文件，您可以访问如下链接：
- 1. 项目一：[COVID-19全球疫情分析](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/COVID-19%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85%E5%88%86%E6%9E%90/COVID-19%E9%A1%B9%E7%9B%AE.ipynb/ ). 
- 2. 项目二：[Udemy课程数据分析与预测](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/Udemy%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE/Udemy%20%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%20.ipynb ). 
- 3. 项目三：[王者荣耀英雄定位的区分度分析](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90.ipynb). 
+ 1. 项目一：[COVID-19全球疫情分析(3.5星推荐)](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/COVID-19%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85%E5%88%86%E6%9E%90/COVID-19%E9%A1%B9%E7%9B%AE.ipynb/ ). 
+ 2. 项目二：[Udemy课程数据分析与预测(四星推荐)](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/Udemy%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE/Udemy%20%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%20.ipynb ). 
+ 3. 项目三：[王者荣耀英雄定位的区分度分析(五星推荐！！)](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90.ipynb). 
 
 或者您也可以下载<项目汇总(pdf版)>文件夹里面的pdf版本，但是显示效果不完美。
 # 项目介绍
