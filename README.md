@@ -2,19 +2,19 @@
  该地址用来存放自己在学习过程中做过的项目，欢迎大家给我提出批评和建议~
  
  若网页无法加载ipynb文件，您可以访问如下链接：
- 1. 项目一：[COVID-19全球疫情分析](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/COVID-19%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85%E5%88%86%E6%9E%90/COVID-19%E9%A1%B9%E7%9B%AE.ipynb/ )（3.5星推荐）. 
- 2. 项目二：[Udemy课程数据分析与预测](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/Udemy%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE/Udemy%20%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%20.ipynb )（四星推荐）. 
+ 1. 项目一：[COVID-19全球疫情分析](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/COVID-19%E5%85%A8%E7%90%83%E7%96%AB%E6%83%85%E5%88%86%E6%9E%90/COVID-19%E9%A1%B9%E7%9B%AE.ipynb/ )（四星推荐）. 
+ 2. 项目二：[Udemy课程数据分析与预测](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/Udemy%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE/Udemy%20%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%20.ipynb )（4.5星推荐）. 
  3. 项目三：[王者荣耀英雄定位的区分度分析](https://nbviewer.jupyter.org/github/knowsomestringtheory/My-Projects/blob/master/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%8B%B1%E9%9B%84%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%8C%BA%E5%88%86%E5%BA%A6%E5%88%86%E6%9E%90.ipynb)（五星推荐！！）. 
 
 或者您也可以下载<项目汇总(pdf版)>文件夹里面的pdf版本，但是显示效果不完美。
 # 项目介绍
-## 项目一：COVID-19全球疫情分析（3.5星推荐）
+## 项目一：COVID-19全球疫情分析
 1. 利用Pandas和Seaborn对4月23日之前的全球以及疫情严重的国家的新冠疫情进行分析与可视化。
 2. 利用多项式回归对全球总确诊人数和总死亡人数进行预测。最后得出结论：在4.23号前后，全球的总确诊人数近似三次增长，全球的总死亡人数近似二次增长。
 3. 利用意大利的病例数据集，通过卡方检测和Holm–Bonferroni方法，设计方案研究新冠病毒对不同群体的攻击方式是否有区别。最后得出结论：新冠病毒更喜欢攻击年纪大的人，并且在一些年龄段内，病毒对性别也有不同的“偏爱”。 
-## 项目二：Udemy课程数据分析与预测（四星推荐）
+## 项目二：Udemy课程数据分析与预测
 1. 对异常数据进行清洗后，利用Pandas和Seaborn对Udemy网站的课程数据集的9个特征参数进行了横向比较以及可视化。
 2. 根据九个参数之间的热力图提出猜想：Udemy网站的课程订阅人数与其他9个参数无关。然后利用多种机器学习方法对上述猜想进行了验证。这一结论帮助课程定价者排除了9个无关的因素，使之能定出更有利的价格。
-## 项目三：王者荣耀英雄定位的区分度分析（五星推荐！！）
+## 项目三：王者荣耀英雄定位的区分度分析
 该项目计算了不同特征空间下不同定位的英雄形成的聚类的轮廓系数，以此来研究设计师是否在相应的特征空间对英雄的不同定位有比较好的区分。分析过程使用了爬虫、MCA降维、K-menas聚类分析、t-SNE可视化等技术，最后得出结论：
 在初始属性板块中，所有定位的区分度都很低，各英雄的初始属性都很接近；在铭文板块中，法师和辅助的区分度很高；在装备板块中，法师和射手的区分度很高。
